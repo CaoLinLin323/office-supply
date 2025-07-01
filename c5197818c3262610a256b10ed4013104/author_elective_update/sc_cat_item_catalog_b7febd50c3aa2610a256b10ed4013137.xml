@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Supply Requests">5e32b110c36a2610a256b10ed4013145</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-01 07:20:18</sys_created_on>
+        <sys_id>b7febd50c3aa2610a256b10ed4013137</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Supply Requests</sys_name>
+        <sys_package display_value="Office Supply" source="x_1776258_office_0">c5197818c3262610a256b10ed4013104</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Office Supply">c5197818c3262610a256b10ed4013104</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b7febd50c3aa2610a256b10ed4013137</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-01 07:20:18</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Office Supply">c5197818c3262610a256b10ed4013104</application>
+        <file_path/>
+        <instance_id>0586d103eb1ca21ccbdefceacad0cd96</instance_id>
+        <instance_name>dev303319</instance_name>
+        <name>sc_cat_item_catalog_b7febd50c3aa2610a256b10ed4013137</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Supply Requests">5e32b110c36a2610a256b10ed4013145</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-01 07:20:18</sys_created_on><sys_id>b7febd50c3aa2610a256b10ed4013137</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Supply Requests</sys_name><sys_package display_value="Office Supply" source="x_1776258_office_0">c5197818c3262610a256b10ed4013104</sys_package><sys_policy/><sys_scope display_value="Office Supply">c5197818c3262610a256b10ed4013104</sys_scope><sys_update_name>sc_cat_item_catalog_b7febd50c3aa2610a256b10ed4013137</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-01 07:20:18</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-161458957</payload_hash>
+        <record_name>Service Catalog.Supply Requests</record_name>
+        <reverted_from/>
+        <source>81197818c3262610a256b10ed4013106</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-01 07:20:18</sys_created_on>
+        <sys_id>7ffebd50c3aa2610a256b10ed401313a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197c4dba6a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-01 07:20:18</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>bffebd50ceaa2610a840cdb2fbc16d39</update_guid>
+        <update_guid_history>bffebd50ceaa2610a840cdb2fbc16d39:-161458957</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Supply Requests">2c8f3990c3aa2610a256b10ed4013196</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-01 07:22:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>18b89a33a55c4df9a8473d95269d2959</sys_id>
+        <sys_metadata>b7febd50c3aa2610a256b10ed4013137</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Supply Requests</sys_name>
+        <sys_package display_value="Office Supply" source="x_1776258_office_0">c5197818c3262610a256b10ed4013104</sys_package>
+        <sys_parent display_value="Supply Requests">5e32b110c36a2610a256b10ed4013145</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Office Supply">c5197818c3262610a256b10ed4013104</sys_scope>
+        <sys_scope_delete display_value="">09c42c4d03a84c949be1330dc92a8a19</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_b7febd50c3aa2610a256b10ed4013137</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_b7febd50c3aa2610a256b10ed4013137">7ffebd50c3aa2610a256b10ed401313a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-01 07:22:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

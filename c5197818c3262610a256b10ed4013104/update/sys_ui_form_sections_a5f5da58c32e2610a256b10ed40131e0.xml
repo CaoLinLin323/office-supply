@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a5f5da58c32e2610a256b10ed40131e0" sys_domain="global" table="x_1776258_office_0_request_list" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 09:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1f5da58c32e2610a256b10ed40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1776258_office_0_request_list" name="x_1776258_office_0_request_list" sys_domain="global" view="Default view">a5f5da58c32e2610a256b10ed40131e0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1776258_office_0_request_list" sys_domain="global" view="Default view">29f0c590c3662610a256b10ed4013118</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 09:00:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1776258_office_0_request_list</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 09:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5f5da58c32e2610a256b10ed40131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1776258_office_0_request_list</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Office Supply" source="x_1776258_office_0">c5197818c3262610a256b10ed4013104</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Office Supply">c5197818c3262610a256b10ed4013104</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a5f5da58c32e2610a256b10ed40131e0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 09:00:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

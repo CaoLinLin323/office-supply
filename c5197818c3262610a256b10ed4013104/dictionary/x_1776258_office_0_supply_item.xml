@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b04ab098c3262610a256b10ed401318c" label="Supply Item" max_length="40" name="x_1776258_office_0_supply_item" type="collection">
+        <element display="true" label="Category" max_length="80" name="category" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+    </element>
+</database>

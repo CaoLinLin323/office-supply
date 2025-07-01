@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8df00990c3662610a256b10ed40131a7" label="Request List" max_length="40" name="x_1776258_office_0_request_list" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Request type" max_length="32" name="request_type" reference="x_1776258_office_0_supply_item" type="reference"/>
+        <element choice="3" default="submitted" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="submitted" sequence="0" value="submitted"/>
+            </choice>
+        </element>
+        <element display="true" label="Request for" max_length="32" name="request_for" reference="sys_user" type="reference"/>
+        <element label="Requested for email" max_length="40" name="requested_for_email" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="request_for"/>
+        </index>
+        <index name="index3">
+            <element name="request_type"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Supply Requests">5e32b110c36a2610a256b10ed4013145</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-01 07:09:44</sys_created_on>
+        <sys_id>459cf19cc36a2610a256b10ed40131cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Supply Requests</sys_name>
+        <sys_package display_value="Office Supply" source="x_1776258_office_0">c5197818c3262610a256b10ed4013104</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Office Supply">c5197818c3262610a256b10ed4013104</sys_scope>
+        <sys_update_name>sc_cat_item_category_459cf19cc36a2610a256b10ed40131cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-01 07:09:44</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Office Supply">c5197818c3262610a256b10ed4013104</application>
+        <file_path/>
+        <instance_id>0586d103eb1ca21ccbdefceacad0cd96</instance_id>
+        <instance_name>dev303319</instance_name>
+        <name>sc_cat_item_category_459cf19cc36a2610a256b10ed40131cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Supply Requests">5e32b110c36a2610a256b10ed4013145</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-01 07:09:44</sys_created_on><sys_id>459cf19cc36a2610a256b10ed40131cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Supply Requests</sys_name><sys_package display_value="Office Supply" source="x_1776258_office_0">c5197818c3262610a256b10ed4013104</sys_package><sys_policy/><sys_scope display_value="Office Supply">c5197818c3262610a256b10ed4013104</sys_scope><sys_update_name>sc_cat_item_category_459cf19cc36a2610a256b10ed40131cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-01 07:09:44</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1963523601</payload_hash>
+        <record_name>Can We Help You?.Supply Requests</record_name>
+        <reverted_from/>
+        <source>81197818c3262610a256b10ed4013106</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-01 07:09:45</sys_created_on>
+        <sys_id>cd9cf19cc36a2610a256b10ed40131d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197c4d1fae50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-01 07:09:45</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>019cf19c386a26108be66add306072d0</update_guid>
+        <update_guid_history>019cf19c386a26108be66add306072d0:-1963523601</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Supply Requests">5efe7d50c3aa2610a256b10ed4013181</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-01 07:20:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2d821b8f4bb149778872145c3b5ef441</sys_id>
+        <sys_metadata>459cf19cc36a2610a256b10ed40131cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Supply Requests</sys_name>
+        <sys_package display_value="Office Supply" source="x_1776258_office_0">c5197818c3262610a256b10ed4013104</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Office Supply">c5197818c3262610a256b10ed4013104</sys_scope>
+        <sys_scope_delete display_value="">09c42c4d03a84c949be1330dc92a8a19</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_459cf19cc36a2610a256b10ed40131cc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_459cf19cc36a2610a256b10ed40131cc">cd9cf19cc36a2610a256b10ed40131d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-01 07:20:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
