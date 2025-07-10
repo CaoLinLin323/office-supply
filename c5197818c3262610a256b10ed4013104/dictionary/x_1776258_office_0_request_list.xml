@@ -4,11 +4,12 @@
         <element label="Request type" max_length="32" name="request_type" reference="x_1776258_office_0_supply_item" type="reference"/>
         <element choice="3" default="submitted" label="State" max_length="40" name="state" type="choice">
             <choice>
+                <element inactive_on_update="false" label="rejected" sequence="2" value="rejected"/>
                 <element inactive_on_update="false" label="approved" sequence="1" value="approved"/>
                 <element inactive_on_update="false" label="submitted" sequence="0" value="submitted"/>
             </choice>
         </element>
-        <element display="true" label="Request for" max_length="32" name="request_for" reference="sys_user" type="reference"/>
+        <element display="true" label="Requested for" mandatory="true" max_length="32" name="request_for" reference="sys_user" type="reference"/>
         <element label="Requested for email" max_length="40" name="requested_for_email" type="string"/>
         <index name="index">
             <element name="assigned_to"/>
